@@ -8,6 +8,7 @@ The name of your repository will be the name of the CLI tool, and also the name 
 
 Add a one-line description of your CLI tool, then click "Create repository from template".
 
+![Screenshot of the create repository interface](https://user-images.githubusercontent.com/9599/131272183-d2f1bb50-1ca1-42f2-936d-f23a6cbdbe13.png)
 
 Once created, your new repository will execute a GitHub Actions workflow that uses cookiecutter to rewrite the repository to the desired state. This make take 30 seconds or so.
 
