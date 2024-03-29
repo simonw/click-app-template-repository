@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 permissions:
   contents: read
-{% raw %}
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -25,4 +25,3 @@ jobs:
     - name: Run tests
       run: |
         pytest
-{% endraw %}
