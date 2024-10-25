@@ -24,4 +24,4 @@ The `publish.yml` Action runs when you create a new GitHub release. It can build
 
 For this to work, you need to create an API token for your PyPI account and add that to your repository as a secret called `PYPI_TOKEN`.
 
-See [Publishing your library as a package to PyPI](https://github.com/simonw/click-app#publishing-your-library-as-a-package-to-pypi) for details.
+See [Publishing your library as a package to PyPI](https://github.com/simonw/click-app#publishing-your-tool-as-a-package-to-pypi) for details.
